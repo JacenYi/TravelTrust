@@ -57,8 +57,6 @@ A decentralized travel review system built on Mantle Network, combining blockcha
 │   ├── src/               # Oracle source code
 │   ├── db/                # Database
 │   └── logs/              # Log files
-├── artifacts/             # Compiled contract artifacts
-├── cache/                 # Hardhat cache
 ├── hardhat.config.js      # Hardhat configuration
 ├── package.json           # Project dependencies
 └── README.md              # This file
