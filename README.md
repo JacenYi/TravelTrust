@@ -78,8 +78,8 @@ A decentralized travel review system built on Mantle Network, combining blockcha
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/scenic-review-system.git
-   cd scenic-review-system
+   git clone https://github.com/JacenYi/TravelTrust.git
+   cd TravelTrust
    ```
 
 2. **Install dependencies**
@@ -204,7 +204,7 @@ Users earn TravelTokens for submitting approved reviews:
 
 #### Mantle Sepolia Testnet
 - RPC URL: `https://rpc.sepolia.mantle.xyz`
-- Chain ID: `5001`
+- Chain ID: `5003`
 - Gas Price: EIP-1559 compatible
 
 #### Mantle Mainnet
