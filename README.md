@@ -245,14 +245,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Volc Engine](https://www.volcengine.com/) for AI capabilities
 - All contributors to this project
 
-## Contact
-
-For questions or support, please reach out:
-
-- GitHub Issues: [https://github.com/yourusername/scenic-review-system/issues](https://github.com/yourusername/scenic-review-system/issues)
-- Email: your-email@example.com
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-
----
-
 Built with ❤️ on Mantle Network
