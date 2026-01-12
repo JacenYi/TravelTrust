@@ -1,4 +1,4 @@
-# Scenic Spot Review System on Mantle Network
+# Travel Trust System on Mantle Network
 
 A decentralized travel review system built on Mantle Network, combining blockchain technology with AI-powered review processing to create a transparent, secure, and intelligent platform for travel enthusiasts.
 
