@@ -48,7 +48,6 @@ A decentralized travel review system built on Mantle Network, combining blockcha
 │   ├── FundPool.sol       # Reward pool management
 │   ├── ReviewProcessor.sol # Review processing logic
 │   ├── ScenicNFT.sol      # Scenic spot NFTs
-│   ├── ScenicReviewSystem.sol # Main review system
 │   ├── ScenicReviewCore.sol # Core review functionality
 │   ├── ScenicStorage.sol  # Data storage
 │   ├── SummaryGenerator.sol # Summary generation logic
