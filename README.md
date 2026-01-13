@@ -57,6 +57,29 @@ A decentralized travel review system built on Mantle Network, combining blockcha
 │   ├── src/               # Oracle source code
 │   ├── db/                # Database
 │   └── logs/              # Log files
+│   ├── .env               # oracle_node Environment variables
+│   ├── .env.example       # oracle_node Environment variables example
+├── travel/                # Dapp
+│   ├── public/            # Static assets
+│   │   ├── plugins/       # Plugins
+│   ├── src/               # Source code
+│   │   ├── components/    # Vue components
+│   │   ├── config/        # Configuration files
+│   │   ├── router/        # Vue Router
+│   │   ├── stores/        # Vue stores
+│   │   ├── views/         # views
+│   │   ├── services/      # Service layer (blockchain related)
+│   │   ├── App.vue        # Root component
+│   │   ├── main.js        # Entry file
+│   │   └── style.css      # Global styles
+│   ├── .env               # Dapp Environment variables
+│   ├── .env.example       # Dapp Environment variables example
+│   ├── .gitignore         # Git ignore file
+│   ├── index.html         # HTML template
+│   ├── package.json       # Project configuration and dependencies
+│   └── vite.config.js     # Vite configuration
+├── .env                   # contracts Environment variables
+├── .env.example           # contracts Environment variables example
 ├── hardhat.config.js      # Hardhat configuration
 ├── package.json           # Project dependencies
 └── README.md              # This file
